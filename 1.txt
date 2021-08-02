@@ -1,0 +1,14 @@
+  <van-popup round show="{{ showLog }}" bind:close="onClose" custom-style="border-radius:10rpx; padding:10rpx; width: 85%; height: 25%"> 
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+    测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n
+  </van-popup>
